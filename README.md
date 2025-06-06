@@ -55,4 +55,3 @@
 ---
 
 ⭐ *Thanks for stopping by! Let’s collaborate and create something amazing.*  
-<p align="center"><img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Thank you animation" width="200"/></p>
