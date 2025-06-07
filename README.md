@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Rudra Rathod**  
-🎓 A passionate 3rd-year student at **Nirma University**  
+🎓 A passionate 3rd-year student at **Nirma University**   
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rudrar77&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Rudra's GitHub Stats" width="48%" />
