@@ -30,9 +30,11 @@
 
 ## 🚀 Featured Projects
 
-- 🔁 [Paper Trading Platform](https://github.com/Rudrar77/paper-trading) — Simulated stock trading web app.  
-- 📈 [Stock Market Prediction](https://github.com/Rudrar77/stockmarketprediction) — Machine learning for stock forecasting.  
-- 🏏 [IPL 2025 Data Visualization](https://github.com/Rudrar77/ipl2025datavisulization) — Data viz using Python for cricket analytics.  
+- 🔁 [Paper Trading Platform](https://github.com/Rudrar77/paper-trading) — Simulated stock trading web app with virtual trading features.
+- 📝 [PPT Generator Using Text](https://github.com/Rudrar77/PPT-Generator-using-text) — Full-stack app that converts structured Gujarati/English text into PowerPoint slides with automatic chart and image generation.
+- 🧠 [MRI Prediction (Computer Vision)](https://github.com/Rudrar77/MRI-Prediction-Computer-Vision) — Deep learning model for MRI-based brain disease detection.
+- 📈 [Stock Market Prediction](https://github.com/Rudrar77/stockmarketprediction) — Machine learning model for predicting stock trends using LSTM.
+- 🏏 [IPL 2025 Data Visualization](https://github.com/Rudrar77/ipl2025datavisulization) — Cricket analytics and data visualization using Python for IPL 2025.  
 
 ---
 
