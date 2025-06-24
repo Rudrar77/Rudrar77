@@ -51,7 +51,10 @@
   <a href="https://github.com/Rudrar77" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rudra-rathod-a58746243/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/rudrarathod/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%2300599C.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1IflueCn6GHm4BVMdY7pTYk5FWkzdFfgW/view?usp=drive_link" target="_blank"><img alt="Resume" src="https://drive.google.com/file/d/1N66MkTUleZ50v_yStkgnRWR-97EmIt2s/view?usp=drive_link" /></a>
+  <a href="https://drive.google.com/file/d/1N66MkTUleZ50v_yStkgnRWR-97EmIt2s/view?usp=drive_link" target="_blank">
+  <img alt="Resume" src="https://img.icons8.com/ios-filled/100/000000/open-resume.png" width="120" />
+</a>
+
 </p>
 
 ---
